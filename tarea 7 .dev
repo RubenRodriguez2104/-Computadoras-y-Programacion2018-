@@ -1,0 +1,27 @@
+//hola mundo
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+    //estructura de if 
+    
+    int a,b,c; //asi podemos declarar las variables
+    
+        a=5;
+        b=3;
+        c=7;
+    
+    if (a>b);
+       (c>b);{
+              printf("A=5 > B=3 \nC=7 > B=3\n");  
+              printf("Por lo tanto el valor menor es B=3\n");
+              printf("Y todos los valores son mayores a cero\n");
+                    }
+              
+              
+              
+    
+  system("PAUSE");	
+  return 0;
+}
